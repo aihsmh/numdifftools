@@ -26,7 +26,7 @@ Check conda is installed and in your PATH.
 ------------------------------------------
 Open a terminal client.
 Enter ``conda -V`` into the terminal command line and press enter.
-If conda is installed you should see somehting like the following.
+If conda is installed you should see something like the following.
 
 
 .. parsed-literal::
